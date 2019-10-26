@@ -1,2 +1,2 @@
-# Pytonomous
+# Pythonomous
 Python Network Automation
